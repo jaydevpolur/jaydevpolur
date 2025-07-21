@@ -43,13 +43,13 @@
 <div align="center">
   <a href="https://linkedin.com/in/jaydevpolur123" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+  </a> &nbsp &nbsp &nbsp
   <a href="https://leetcode.com/u/jaydevpolur123/" target="_blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="48" height="48" alt="LeetCode"/>
-  </a>
+  </a> &nbsp &nbsp &nbsp
   <a href="https://www.geeksforgeeks.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" height="48" alt="GeeksforGeeks"/>
-  </a>
+  </a> &nbsp &nbsp &nbsp
   <a href="mailto:jaydevpolur123@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
