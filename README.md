@@ -13,7 +13,7 @@
 
 ### 🧠 About Me  
 
-<p align="left">
+<p align="center">
   <img align="right" src="https://github.com/Madhushree-S-Shetty-3/Madhushree-S-Shetty-3/blob/main/799e0d7779f6ea6c3a89885ff60c55af.gif" width="300">
   
 - ✅ **Computer Science Student @ BMSCE (CGPA: 9.0)**  
@@ -28,30 +28,12 @@
 
 ---
 
-### 🚀 Projects
-
-- **TattaAI – AI Powered Smart Interview System** *(May 2025)*  
-  Tools: AngularJS, FastAPI, BERT, Mediapipe  
-  _AI-powered resume parsing, real-time question generation, and candidate evaluation._
-
-- **LifeLine – Emergency Response System** *(Sept 2024)*  
-  Tools: OpenStreet API, ML  
-  _Optimized ambulance routing with green traffic corridor management._
-
-- **Medisync – Healthcare App** *(Mar 2024)*  
-  Tools: Flutter, Firebase  
-  _Health management app for secure document storage and health monitoring._
-
-- **Art Gallery Website** *(Dec 2023)*  
-  Tools: NodeJS, MongoDB, HTML/CSS  
-  _Interactive digital art marketplace for artists and buyers._
-
----
-
 ### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,express,angular,flutter,dart,mongodb,postgresql,mysql,git,github,aws,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,nodejs,express,angular" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,mongodb,postgresql,mysql,git,github,aws,figma"/>
 </div>
 
 ---
@@ -78,12 +60,8 @@
 ### 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydevpolur123&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaydevpolur123&theme=react&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydevpolur123&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydevpolur&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaydevpolur&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
