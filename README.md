@@ -1,4 +1,5 @@
-<!-- Header with GIF -->
+<img src=https://github.com/jaydevpolur/jaydevpolur/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png alt="cover image">
+
 <h1 align="center">
   Hi, I'm Jaydev P
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
